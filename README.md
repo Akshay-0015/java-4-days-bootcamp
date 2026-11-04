@@ -35,10 +35,6 @@ My name is ___. I am ___ years old. I study at ___.
 
 **Concepts Covered:** User input, variables, and output.
 
-**Output Screenshot:**
-
-[Upload screenshot here]
-
 ---
 
 ### Task 2 – Eligibility Checker
@@ -52,10 +48,6 @@ Accept the user's age and check whether they are eligible to register for an eve
 Display an appropriate message indicating whether the user is eligible or not eligible.
 
 **Concepts Covered:** User input, conditional statements, and comparison operators.
-
-**Output Screenshot:**
-
-[Upload screenshot here]
 
 ---
 
@@ -77,10 +69,6 @@ Write a Java program to print the following pattern.
 **Hint:** Use loops.
 
 **Concepts Covered:** Loops and pattern printing.
-
-**Output Screenshot:**
-
-[Upload screenshot here]
 
 ---
 
@@ -114,10 +102,6 @@ Create a class called `BankAccount` with the following:
 
 **Concepts Covered:** Classes, objects, constructors, methods, and instance variables.
 
-**Output Screenshot:**
-
-[Upload screenshot here]
-
 ---
 
 ### Question 2 – Animal Kingdom: Inheritance
@@ -142,10 +126,6 @@ Create two child classes: `Dog` and `Cat`.
 5. Display their inherited and individual behaviours.
 
 **Concepts Covered:** Inheritance, parent class, child class, and code reusability.
-
-**Output Screenshot:**
-
-[Upload screenshot here]
 
 ---
 
@@ -174,10 +154,6 @@ Create three child classes:
 
 **Concepts Covered:** Abstract class, abstract method, inheritance, and runtime polymorphism.
 
-**Output Screenshot:**
-
-[Upload screenshot here]
-
 ---
 
 ## 📅 DAY 3 & DAY 4 – PROJECT DEVELOPMENT
@@ -205,10 +181,6 @@ Create three child classes:
 - **IDE:** Eclipse
 - **Concepts:** Object-Oriented Programming
 - **Additional Technologies:** [If applicable]
-
-### 📸 Final Project Output
-
-[Upload screenshot here]
 
 ---
 

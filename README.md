@@ -3,7 +3,7 @@
   ☕ Java 4 Days Boot Camp with Eclipse 🚀
 </h1>
 
-<h3 align="center">Organized by FOSS CEPRN</h3>
+<h3 align="center">Organized by FOSS CEPrn</h3>
 
 <p align="center">
   <b>Learn • Code • Practice • Build</b>
@@ -68,8 +68,10 @@ Write a Java program to print the following pattern.
 **Expected Output:**
 
 ```text
-* * * * *
-* * * * *
+* 
+* *
+* * *
+* * * *
 ```
 
 **Hint:** Use loops.

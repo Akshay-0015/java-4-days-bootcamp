@@ -158,45 +158,56 @@ Create three child classes:
 
 ## 📅 DAY 3 & DAY 4 – PROJECT DEVELOPMENT
 
-### 🚀 Project Title: [Your Project Name]
+### 🚀 Project Title: Java Calculator Using Swing
 
 **📝 Project Problem Statement:**
 
-[Add the complete project question or problem statement provided during the boot camp.]
+Develop a calculator application using Java Swing that allows users to perform basic mathematical calculations through a graphical user interface. The application should support addition, subtraction, multiplication, division, percentage calculation, and positive/negative number conversion. It should also provide a clear button to reset the calculation and handle division-by-zero errors.
+
 
 ### 📌 Project Description
 
-[Briefly describe the project, its purpose, the problem it solves, and how it works.]
+The Java GUI Calculator is a simple desktop application developed using Java programming language and Swing. It provides an easy-to-use graphical interface with number buttons, mathematical operators, and a display screen.
+
+Users can enter numbers by clicking the buttons and perform basic mathematical operations such as addition, subtraction, multiplication, and division. The calculator also supports percentage calculation, decimal values, and changing the sign of a number.
+
+The application displays the result on the screen and provides an AC button to clear the current calculation. It also handles division-by-zero errors by displaying an appropriate message.
+
+This project helped me understand Java Swing, event handling, and basic Object-Oriented Programming concepts.
+
 
 ### ✨ Key Features
 
-- [Mention the first major feature.]
-- [Mention the second major feature.]
-- [Mention the third major feature.]
-- [Mention any additional functionality.]
+1. User-Friendly Interface: Provides a simple graphical interface with number buttons and operators.
+
+2. Basic Mathematical Operations: Supports addition, subtraction, multiplication, and division.
+
+3. Percentage Calculation: Allows users to calculate percentages.
+
+4. Positive and Negative Conversion: Allows users to change the sign of a number.
 
 ### 🛠️ Technologies Used
 
 - **Programming Language:** Java
 - **IDE:** Eclipse
 - **Concepts:** Object-Oriented Programming
-- **Additional Technologies:** [If applicable]
+- **Additional Technologies:**
 
 ---
 
 👩‍💻 STUDENT INFORMATION
 
-Name: Your Full Name
+Name: Akshay KV
 
-Class / Year: Your Class and Year
+Class / Year: Btech First Year and 2026
 
-Department: Your Department
+Department: Computer Science Engineering
 
-College: Your College Name
+College: College of Engineering Perumon
 
-GitHub Profile: Your GitHub Username
+GitHub Profile: Akshay-0015
 
-LinkedIn Profile: Your LinkedIn Profile
+LinkedIn Profile: https://www.linkedin.com/in/akshay-kv-10a640436?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 <p align="center">
